@@ -66,9 +66,10 @@ Please refer to individual component documentation for their specific licenses.
 ## Contact
 
 For licensing questions or commercial inquiries:
-- Email: legal@devsora.tech
-- Website: [devsora.tech](https://devsora.tech)
+- Email: info@devsora.com
+- Website: [devsora.com](https://devsora.com)
 
 ---
 
 **© 2025 DevSora & M4YH3M. All rights reserved under respective licenses.**
+
