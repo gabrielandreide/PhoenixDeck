@@ -107,7 +107,7 @@ Phoenix Deck will include tools and capabilities for security research and ethic
 
 ## 🙏 Project Status
 
-**⚠️ This project is currently in the planning phase.** No hardware or code has been developed yet. We're gathering community interest, refining the design, and preparing to begin active development.
+**⚠️ This project is currently in the alpha phase.** We're gathering community interest, refining the design, and preparing to begin active development.
 
 ### Want to Contribute?
 We'll be opening contribution channels soon. Stay tuned for:
