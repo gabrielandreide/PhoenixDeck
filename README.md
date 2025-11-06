@@ -6,6 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%205-red.svg)
 ![Status](https://img.shields.io/badge/status-Planning-yellow.svg)
 
+![Banner](./PhoenixDeck-XYZ.png)
 ---
 
 ## 🚀 What is Phoenix Deck?
