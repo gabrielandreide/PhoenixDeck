@@ -63,6 +63,27 @@ Please refer to individual component documentation for their specific licenses.
 
 ---
 
+Phoenix Deck Licensing Summary
+-------------------------------
+This project is dual-licensed:
+
+1. **Free License (for individuals, students, and researchers)**
+   You may use, modify, and share the source, hardware designs,
+   and documentation for personal, academic, or research purposes
+   under the terms of the following:
+      - CERN-OHL-S-2.0 for hardware
+      - Apache-2.0 / MIT for firmware and software
+      - CC BY-SA 4.0 for documentation
+
+2. **Commercial License (for companies, organizations, or paid work)**
+   Commercial use—including manufacturing, distribution, or
+   integration into products or services—requires a separate
+   commercial agreement with the copyright holder.
+
+   Contact: info@devsora.com
+
+---
+
 ## Contact
 
 For licensing questions or commercial inquiries:
@@ -72,4 +93,5 @@ For licensing questions or commercial inquiries:
 ---
 
 **© 2025 DevSora & M4YH3M. All rights reserved under respective licenses.**
+
 
