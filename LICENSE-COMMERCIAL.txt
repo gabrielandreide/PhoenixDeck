@@ -1,0 +1,18 @@
+Phoenix Deck Commercial License
+-------------------------------
+This license governs any use of Phoenix Deck or its components
+for commercial or organizational purposes.
+
+Permission is granted to individuals and educational institutions
+to use, study, and modify the work at no charge.
+
+Commercial entities (including companies, NGOs, or government
+organizations) must obtain a commercial license from DevSora &
+Hiten Balara before using, selling, manufacturing,
+or distributing products based on this work.
+
+Commercial licenses may include royalties, per-unit fees, or
+revenue-sharing terms as agreed in writing.
+
+Contact: info@devsora.com
+© 2025 DevSora & Hiten Balara
